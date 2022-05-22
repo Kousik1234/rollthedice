@@ -1,0 +1,117 @@
+*{
+    background-color: #9befbb;
+}
+#winner{
+ border-top-left-radius: 10px ;
+ border-top-right-radius: 10px ;
+      margin: auto;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     width: 40%;
+     height: 100px;
+     color: #bfdecb ;
+     font-size: 3rem;
+ }
+ #firstwin{
+     border-bottom-left-radius: 10px;
+     border-bottom-right-radius: 10px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     font-size: 4.5em;
+     width: 40%;
+     height: 120px;
+     margin: auto;
+     color: white;
+     background-color: #1d9375;
+ }
+ #kousik{
+     height: 120px;
+     width: 70%;
+     margin: auto;
+     margin-top: 10px;
+     display: flex;
+     justify-content: space-around;
+ }
+ #kousik_name{
+     margin: auto;
+     display: flex;
+     justify-content: space-around;
+     height: 100px;
+     width: 70%;
+     margin-top: 5px;
+ }
+ #member-1{
+     border-top-left-radius: 10px ;
+     border-top-right-radius: 10px ;
+     margin-top: 15px;
+     display:flex;
+     justify-content: center;
+     align-items: center;
+     width: 28%;
+     color: black;
+     font-size: 6.2em ;
+     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+     text-shadow: 2px 2px 5px rgb(245, 245, 245);
+ }
+ #member-2{
+     border-top-left-radius: 10px ;
+     border-top-right-radius: 10px ;
+     margin-top: 15px;
+     display:flex;
+     justify-content: center;
+     align-items: center;
+     width: 28%;
+     color: black;
+     font-size: 6.2em ;
+     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+     text-shadow: 2px 2px 5px rgb(245, 245, 245);
+ }
+ #member-3{ 
+     border-top-left-radius: 10px ;
+     border-top-right-radius: 10px ;
+     margin-top: 15px;
+     display:flex;
+     justify-content: center;
+     align-items: center;
+     width: 28%;
+     color: black;
+     font-size: 6.2em ;
+     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+     text-shadow: 2px 2px 5px rgb(245, 245, 245);
+ }
+   .person_box{
+      display: flex;
+     justify-content: center;
+     align-items: center;
+     width: 28%;
+     background-color:rgb(116, 106, 106);
+     color: white;
+     font-size: 30px;
+     border-bottom-left-radius: 5px;
+     border-bottom-right-radius: 5px;
+     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+ }
+ #button:hover{
+     border: 3px solid  rgb(252, 131, 87);;
+     color:  rgb(252, 131, 87);
+     background-color: white;
+     font-weight: 500;
+     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+ }
+ #button{
+     border-radius: 10px ;
+     font-size: 20px;
+     color: white;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 60px;
+     width: 210px;
+     margin: auto;
+     margin-top: 20px;
+     background-color: rgb(252, 131, 87);
+     cursor: pointer;
+ }
+ 
